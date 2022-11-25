@@ -29,6 +29,7 @@ font-weight: 800;
 }
 #pic{
     text-align: center;
+    padding: 20px 20px 20px 20px;
 }
 h3{
 text-decoration: underline;
@@ -37,7 +38,7 @@ color: dimgrey;
 
 
 .note{
-font-size: 10pt;
+font-size: 14pt;
 color:darkblue;
 }
 
