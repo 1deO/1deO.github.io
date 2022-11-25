@@ -1,12 +1,11 @@
 *{
 background-color: lightcyan;
 font-family: tahoma, arial;
-}
-body{
-    background-image: url('scenery.jpg');
-    background-repeat: repeat-x;
-    background-attachment: scroll ;
-    background-position: 0ex;
+
+background-image: url('scenery.jpg');
+background-repeat: repeat-x;
+background-attachment: scroll ;
+background-position: 0ex;
 }
 .animal{
 font-weight: 600;
