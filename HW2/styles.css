@@ -1,7 +1,8 @@
 *{
 background-color: lightcyan;
 font-family: tahoma, arial;
-
+}
+body{
 background-image: url('scenery.jpg');
 background-repeat: repeat-x;
 background-attachment:fixed;
