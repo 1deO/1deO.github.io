@@ -2,7 +2,7 @@
 background-color: lightcyan;
 font-family: tahoma, arial;
 }
-@media screen and(min-width: 480px){
+@media screen and(min-width: 720px){
     body{
         background-color: lightyellow;
     }
