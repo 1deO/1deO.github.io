@@ -2,6 +2,11 @@
 background-color: lightcyan;
 font-family: tahoma, arial;
 }
+@media screen and(min-width: 480px){
+    body{
+        background-color: lightyellow;
+    }
+}
 .scenery{
     background-color: transparent;
     background-image: url('scenery.jpg');
