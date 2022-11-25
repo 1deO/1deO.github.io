@@ -2,7 +2,7 @@
 background-color: lightcyan;
 font-family: tahoma, arial;
 }
-body{
+em,h1{
 background-image: url('scenery.jpg');
 background-repeat: repeat-x;
 background-attachment:fixed;
