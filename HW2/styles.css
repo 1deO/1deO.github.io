@@ -3,7 +3,7 @@ background-color: lightcyan;
 font-family: tahoma, arial;
 }
 .scenery{
-    background-image: url("scenery.jpg");
+    background-image: url('scenery.jpg');
     background-repeat: repeat-x;
     background-attachment: scroll ;
 }
