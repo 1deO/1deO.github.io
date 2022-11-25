@@ -2,6 +2,11 @@
 background-color: lightcyan;
 font-family: tahoma, arial;
 }
+.scenery{
+    background-image: url("scenery.jpg");
+    background-repeat: repeat-x;
+    background-attachment: scroll ;
+}
 .animal{
 font-weight: 600;
 color: darkblue;
