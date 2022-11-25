@@ -3,10 +3,11 @@ background-color: lightcyan;
 font-family: tahoma, arial;
 }
 .scenery{
-background-image: url('scenery.jpg');
-background-repeat: repeat-x;
-background-attachment:fixed;
-background-position: 0ex;
+    background-color: none;
+    background-image: url('scenery.jpg');
+    background-repeat: repeat-x;
+    background-attachment:fixed;
+    background-position: 0ex;
 }
 p h1{
     padding-top: 20px;
