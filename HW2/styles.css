@@ -4,7 +4,7 @@ font-family: tahoma, arial;
 
 background-image: url('scenery.jpg');
 background-repeat: repeat-x;
-background-attachment: scroll ;
+background-attachment:fixed;
 background-position: 0ex;
 }
 .animal{
@@ -26,12 +26,10 @@ color: dimgrey;
 }
 
 
-
 .note{
 font-size: 10pt;
 color:darkblue;
 }
-
 
 
 span{
