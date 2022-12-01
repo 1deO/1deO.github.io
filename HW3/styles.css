@@ -1,0 +1,51 @@
+
+body{
+    padding: 30px 30px 30px 30px;
+    font-family: sans-serif, monospace, cursive;
+    color: black;
+    margin: 5%;
+    width: 60%;
+    height: 60%;
+    border: 2px solid black;
+}
+p, div{
+    font-weight: bold;
+
+
+}
+.float{
+    float: ;
+    margin: ;
+}
+div{
+    border: 2px  black;
+    margin-left: auto; 
+    margin-right: auto;
+}
+input{
+    padding: 5px 8px 5px 8px;
+
+}
+
+
+    width: 40%;
+    height: 40%;
+
+    padding: 10px 10px 10px 10px;
+    font-size: 22px;
+    font-weight: bolder;
+    border: 2px solid black;
+    padding:20px 20px 20px 20px;
+
+   
+    border-right: 5px solid black;
+    text-decoration: none;
+
+
+@media screen and(min-width: 600px){
+    body{
+        background-color: darkgrey;
+        color: lightblue;
+    }
+}
+
