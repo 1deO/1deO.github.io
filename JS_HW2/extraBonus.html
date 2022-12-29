@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+
+		//Houston, we have a problem
+		var sentence = window.prompt("input data");
+		var char = window.prompt("input a char to search");
+
+		var v1 = sentence.indexOf(char);
+		var v2 = sentence.lastIndexOf(char);
+		var v3 = sentence.indexOf(char, 3);
+
+		document.writeln(v1 + "<br>" + v2 + "<br>" + v3);
+	</script>
+
+</body>
+</html>
